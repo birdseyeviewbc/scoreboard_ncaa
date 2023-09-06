@@ -1,0 +1,1596 @@
+{
+  "inputMD5Sum": "d4c38248e8e0ac24adc5ee07197ef872",
+  "updated_at": "09-05-2023 17:27:32",
+  "games": [
+    {"game": {
+      "gameID": "3146526",
+      "away": {
+        "score": "5",
+        "names": {
+          "char6": "OHIOST",
+          "short": "Ohio St.",
+          "seo": "ohio-st",
+          "full": "The Ohio State University"
+        },
+        "winner": true,
+        "seed": "",
+        "description": "(1-0-0)",
+        "rank": "",
+        "conferences": [{
+          "conferenceName": "Big Ten",
+          "conferenceSeo": "big-ten"
+        }]
+      },
+      "finalMessage": "FINAL",
+      "bracketRound": "",
+      "title": "Lehigh Ohio St.",
+      "contestName": "",
+      "url": "/game/6188459",
+      "network": "",
+      "home": {
+        "score": "2",
+        "names": {
+          "char6": "LEHIGH",
+          "short": "Lehigh",
+          "seo": "lehigh",
+          "full": "Lehigh University"
+        },
+        "winner": false,
+        "seed": "",
+        "description": "(0-1-0)",
+        "rank": "",
+        "conferences": [{
+          "conferenceName": "Patriot",
+          "conferenceSeo": "patriot"
+        }]
+      },
+      "liveVideoEnabled": false,
+      "startTime": "TBA",
+      "startTimeEpoch": "1692936000",
+      "bracketId": "",
+      "gameState": "final",
+      "startDate": "08-25-2023",
+      "currentPeriod": "FINAL",
+      "videoState": "",
+      "bracketRegion": "",
+      "contestClock": "53:49"
+    }},
+    {"game": {
+      "gameID": "3146539",
+      "away": {
+        "score": "1",
+        "names": {
+          "char6": "LASALL",
+          "short": "La Salle",
+          "seo": "la-salle",
+          "full": "La Salle University"
+        },
+        "winner": false,
+        "seed": "",
+        "description": "(0-1-0)",
+        "rank": "",
+        "conferences": [{
+          "conferenceName": "Atlantic 10",
+          "conferenceSeo": "atlantic-10"
+        }]
+      },
+      "finalMessage": "FINAL",
+      "bracketRound": "",
+      "title": "Temple La Salle",
+      "contestName": "",
+      "url": "/game/6188472",
+      "network": "",
+      "home": {
+        "score": "2",
+        "names": {
+          "char6": "TEMPLE",
+          "short": "Temple",
+          "seo": "temple",
+          "full": "Temple University"
+        },
+        "winner": true,
+        "seed": "",
+        "description": "(1-0-0)",
+        "rank": "",
+        "conferences": [{
+          "conferenceName": "Big East",
+          "conferenceSeo": "big-east"
+        }]
+      },
+      "liveVideoEnabled": false,
+      "startTime": "TBA",
+      "startTimeEpoch": "1692936000",
+      "bracketId": "",
+      "gameState": "final",
+      "startDate": "08-25-2023",
+      "currentPeriod": "FINAL",
+      "videoState": "",
+      "bracketRegion": "",
+      "contestClock": "60:00"
+    }},
+    {"game": {
+      "gameID": "3146569",
+      "away": {
+        "score": "1",
+        "names": {
+          "char6": "LIU",
+          "short": "LIU",
+          "seo": "long-island",
+          "full": "Long Island University"
+        },
+        "winner": false,
+        "seed": "",
+        "description": "(0-1-0)",
+        "rank": "",
+        "conferences": [{
+          "conferenceName": "NEC",
+          "conferenceSeo": "nec"
+        }]
+      },
+      "finalMessage": "FINAL",
+      "bracketRound": "",
+      "title": "UMass Lowell LIU",
+      "contestName": "",
+      "url": "/game/6188486",
+      "network": "",
+      "home": {
+        "score": "5",
+        "names": {
+          "char6": "UMASSL",
+          "short": "UMass Lowell",
+          "seo": "umass-lowell",
+          "full": "University of Massachusetts Lowell"
+        },
+        "winner": true,
+        "seed": "",
+        "description": "(1-0-0)",
+        "rank": "",
+        "conferences": [{
+          "conferenceName": "America East",
+          "conferenceSeo": "america-east"
+        }]
+      },
+      "liveVideoEnabled": false,
+      "startTime": "TBA",
+      "startTimeEpoch": "1692936000",
+      "bracketId": "",
+      "gameState": "final",
+      "startDate": "08-25-2023",
+      "currentPeriod": "FINAL",
+      "videoState": "",
+      "bracketRegion": "",
+      "contestClock": "60:00"
+    }},
+    {"game": {
+      "gameID": "3146737",
+      "away": {
+        "score": "4",
+        "names": {
+          "char6": "IOWA",
+          "short": "Iowa",
+          "seo": "iowa",
+          "full": "University of Iowa"
+        },
+        "winner": true,
+        "seed": "",
+        "description": "(1-0-0)",
+        "rank": "",
+        "conferences": [{
+          "conferenceName": "Big Ten",
+          "conferenceSeo": "big-ten"
+        }]
+      },
+      "finalMessage": "FINAL",
+      "bracketRound": "",
+      "title": "Wake Forest Iowa",
+      "contestName": "",
+      "url": "/game/6188502",
+      "network": "",
+      "home": {
+        "score": "0",
+        "names": {
+          "char6": "WAKE",
+          "short": "Wake Forest",
+          "seo": "wake-forest",
+          "full": "Wake Forest University"
+        },
+        "winner": false,
+        "seed": "",
+        "description": "(0-1-0)",
+        "rank": "",
+        "conferences": [{
+          "conferenceName": "ACC",
+          "conferenceSeo": "acc"
+        }]
+      },
+      "liveVideoEnabled": false,
+      "startTime": "TBA",
+      "startTimeEpoch": "1692936000",
+      "bracketId": "",
+      "gameState": "final",
+      "startDate": "08-25-2023",
+      "currentPeriod": "FINAL",
+      "videoState": "",
+      "bracketRegion": "",
+      "contestClock": "60:00"
+    }},
+    {"game": {
+      "gameID": "3146806",
+      "away": {
+        "score": "1",
+        "names": {
+          "char6": "PENNST",
+          "short": "Penn St.",
+          "seo": "penn-st",
+          "full": "Pennsylvania State University"
+        },
+        "winner": false,
+        "seed": "",
+        "description": "(0-1-0)",
+        "rank": "",
+        "conferences": [{
+          "conferenceName": "Big Ten",
+          "conferenceSeo": "big-ten"
+        }]
+      },
+      "finalMessage": "FINAL",
+      "bracketRound": "",
+      "title": "Virginia Penn St.",
+      "contestName": "",
+      "url": "/game/6188516",
+      "network": "",
+      "home": {
+        "score": "2",
+        "names": {
+          "char6": "UVA",
+          "short": "Virginia",
+          "seo": "virginia",
+          "full": "University of Virginia"
+        },
+        "winner": true,
+        "seed": "",
+        "description": "(1-0-0)",
+        "rank": "",
+        "conferences": [{
+          "conferenceName": "ACC",
+          "conferenceSeo": "acc"
+        }]
+      },
+      "liveVideoEnabled": false,
+      "startTime": "TBA",
+      "startTimeEpoch": "1692936000",
+      "bracketId": "",
+      "gameState": "final",
+      "startDate": "08-25-2023",
+      "currentPeriod": "FINAL",
+      "videoState": "",
+      "bracketRegion": "",
+      "contestClock": "60:00"
+    }},
+    {"game": {
+      "gameID": "3146850",
+      "away": {
+        "score": "3",
+        "names": {
+          "char6": "MICHST",
+          "short": "Michigan St.",
+          "seo": "michigan-st",
+          "full": "Michigan State University"
+        },
+        "winner": true,
+        "seed": "",
+        "description": "(1-0-0)",
+        "rank": "",
+        "conferences": [{
+          "conferenceName": "Big Ten",
+          "conferenceSeo": "big-ten"
+        }]
+      },
+      "finalMessage": "FINAL",
+      "bracketRound": "",
+      "title": "Boston U. Michigan St.",
+      "contestName": "",
+      "url": "/game/6188530",
+      "network": "",
+      "home": {
+        "score": "1",
+        "names": {
+          "char6": "BU",
+          "short": "Boston U.",
+          "seo": "boston-u",
+          "full": "Boston University"
+        },
+        "winner": false,
+        "seed": "",
+        "description": "(0-1-0)",
+        "rank": "",
+        "conferences": [{
+          "conferenceName": "Patriot",
+          "conferenceSeo": "patriot"
+        }]
+      },
+      "liveVideoEnabled": false,
+      "startTime": "TBA",
+      "startTimeEpoch": "1692936000",
+      "bracketId": "",
+      "gameState": "final",
+      "startDate": "08-25-2023",
+      "currentPeriod": "FINAL",
+      "videoState": "",
+      "bracketRegion": "",
+      "contestClock": "60:00"
+    }},
+    {"game": {
+      "gameID": "3146970",
+      "away": {
+        "score": "2",
+        "names": {
+          "char6": "IND",
+          "short": "Indiana",
+          "seo": "indiana",
+          "full": "Indiana University, Bloomington"
+        },
+        "winner": false,
+        "seed": "",
+        "description": "(0-1-0)",
+        "rank": "",
+        "conferences": [{
+          "conferenceName": "Big Ten",
+          "conferenceSeo": "big-ten"
+        }]
+      },
+      "finalMessage": "FINAL",
+      "bracketRound": "",
+      "title": "Duke Indiana",
+      "contestName": "",
+      "url": "/game/6188544",
+      "network": "",
+      "home": {
+        "score": "3",
+        "names": {
+          "char6": "DUKE",
+          "short": "Duke",
+          "seo": "duke",
+          "full": "Duke University"
+        },
+        "winner": true,
+        "seed": "",
+        "description": "(1-0-0)",
+        "rank": "",
+        "conferences": [{
+          "conferenceName": "ACC",
+          "conferenceSeo": "acc"
+        }]
+      },
+      "liveVideoEnabled": false,
+      "startTime": "TBA",
+      "startTimeEpoch": "1692936000",
+      "bracketId": "",
+      "gameState": "final",
+      "startDate": "08-25-2023",
+      "currentPeriod": "FINAL",
+      "videoState": "",
+      "bracketRegion": "",
+      "contestClock": "60:00"
+    }},
+    {"game": {
+      "gameID": "3147022",
+      "away": {
+        "score": "2",
+        "names": {
+          "char6": "MICH",
+          "short": "Michigan",
+          "seo": "michigan",
+          "full": "University of Michigan"
+        },
+        "winner": false,
+        "seed": "",
+        "description": "(0-1-0)",
+        "rank": "",
+        "conferences": [{
+          "conferenceName": "Big Ten",
+          "conferenceSeo": "big-ten"
+        }]
+      },
+      "finalMessage": "FINAL",
+      "bracketRound": "",
+      "title": "North Carolina Michigan",
+      "contestName": "",
+      "url": "/game/6188558",
+      "network": "",
+      "home": {
+        "score": "3",
+        "names": {
+          "char6": "UNC",
+          "short": "North Carolina",
+          "seo": "north-carolina",
+          "full": "University of North Carolina, Chapel Hill"
+        },
+        "winner": true,
+        "seed": "",
+        "description": "(1-0-0)",
+        "rank": "",
+        "conferences": [{
+          "conferenceName": "ACC",
+          "conferenceSeo": "acc"
+        }]
+      },
+      "liveVideoEnabled": false,
+      "startTime": "TBA",
+      "startTimeEpoch": "1692936000",
+      "bracketId": "",
+      "gameState": "final",
+      "startDate": "08-25-2023",
+      "currentPeriod": "FINAL",
+      "videoState": "",
+      "bracketRegion": "",
+      "contestClock": "60:00"
+    }},
+    {"game": {
+      "gameID": "3482959",
+      "away": {
+        "score": "0",
+        "names": {
+          "char6": "BUCKNL",
+          "short": "Bucknell",
+          "seo": "bucknell",
+          "full": "Bucknell University"
+        },
+        "winner": false,
+        "seed": "",
+        "description": "(0-1-0)",
+        "rank": "",
+        "conferences": [{
+          "conferenceName": "Patriot",
+          "conferenceSeo": "patriot"
+        }]
+      },
+      "finalMessage": "FINAL",
+      "bracketRound": "",
+      "title": "Drexel Bucknell",
+      "contestName": "",
+      "url": "/game/6190450",
+      "network": "",
+      "home": {
+        "score": "4",
+        "names": {
+          "char6": "DREXEL",
+          "short": "Drexel",
+          "seo": "drexel",
+          "full": "Drexel University"
+        },
+        "winner": true,
+        "seed": "",
+        "description": "(1-0-0)",
+        "rank": "",
+        "conferences": [{
+          "conferenceName": "CAA",
+          "conferenceSeo": "caa"
+        }]
+      },
+      "liveVideoEnabled": false,
+      "startTime": "TBA",
+      "startTimeEpoch": "1692936000",
+      "bracketId": "",
+      "gameState": "final",
+      "startDate": "08-25-2023",
+      "currentPeriod": "FINAL",
+      "videoState": "",
+      "bracketRegion": "",
+      "contestClock": "60:00"
+    }},
+    {"game": {
+      "gameID": "3482960",
+      "away": {
+        "score": "3",
+        "names": {
+          "char6": "C MICH",
+          "short": "Central Mich.",
+          "seo": "central-mich",
+          "full": "Central Michigan University"
+        },
+        "winner": true,
+        "seed": "",
+        "description": "(1-0-0)",
+        "rank": "",
+        "conferences": [{
+          "conferenceName": "MAC",
+          "conferenceSeo": "mac"
+        }]
+      },
+      "finalMessage": "FINAL",
+      "bracketRound": "",
+      "title": "Colgate Central Mich.",
+      "contestName": "",
+      "url": "/game/6190451",
+      "network": "",
+      "home": {
+        "score": "2",
+        "names": {
+          "char6": "COLGAT",
+          "short": "Colgate",
+          "seo": "colgate",
+          "full": "Colgate University"
+        },
+        "winner": false,
+        "seed": "",
+        "description": "(0-1-0)",
+        "rank": "",
+        "conferences": [{
+          "conferenceName": "Patriot",
+          "conferenceSeo": "patriot"
+        }]
+      },
+      "liveVideoEnabled": false,
+      "startTime": "TBA",
+      "startTimeEpoch": "1692936000",
+      "bracketId": "",
+      "gameState": "final",
+      "startDate": "08-25-2023",
+      "currentPeriod": "FINAL",
+      "videoState": "",
+      "bracketRegion": "",
+      "contestClock": "60:00"
+    }},
+    {"game": {
+      "gameID": "3482961",
+      "away": {
+        "score": "3",
+        "names": {
+          "char6": "BC",
+          "short": "Boston College",
+          "seo": "boston-college",
+          "full": "Boston College"
+        },
+        "winner": true,
+        "seed": "",
+        "description": "(1-0-0)",
+        "rank": "",
+        "conferences": [{
+          "conferenceName": "ACC",
+          "conferenceSeo": "acc"
+        }]
+      },
+      "finalMessage": "FINAL",
+      "bracketRound": "",
+      "title": "Maine Boston College",
+      "contestName": "",
+      "url": "/game/6190452",
+      "network": "",
+      "home": {
+        "score": "1",
+        "names": {
+          "char6": "MAINE",
+          "short": "Maine",
+          "seo": "maine",
+          "full": "University of Maine"
+        },
+        "winner": false,
+        "seed": "",
+        "description": "(0-0-0)",
+        "rank": "",
+        "conferences": [{
+          "conferenceName": "America East",
+          "conferenceSeo": "america-east"
+        }]
+      },
+      "liveVideoEnabled": false,
+      "startTime": "TBA",
+      "startTimeEpoch": "1692936000",
+      "bracketId": "",
+      "gameState": "final",
+      "startDate": "08-25-2023",
+      "currentPeriod": "FINAL",
+      "videoState": "",
+      "bracketRegion": "",
+      "contestClock": "60:00"
+    }},
+    {"game": {
+      "gameID": "3482962",
+      "away": {
+        "score": "0",
+        "names": {
+          "char6": "KENT",
+          "short": "Kent St.",
+          "seo": "kent-st",
+          "full": "Kent State University"
+        },
+        "winner": false,
+        "seed": "",
+        "description": "(0-1-0)",
+        "rank": "",
+        "conferences": [{
+          "conferenceName": "MAC",
+          "conferenceSeo": "mac"
+        }]
+      },
+      "finalMessage": "FINAL",
+      "bracketRound": "",
+      "title": "Liberty Kent St.",
+      "contestName": "",
+      "url": "/game/6190453",
+      "network": "",
+      "home": {
+        "score": "2",
+        "names": {
+          "char6": "LIBRTY",
+          "short": "Liberty",
+          "seo": "liberty",
+          "full": "Liberty University"
+        },
+        "winner": true,
+        "seed": "",
+        "description": "(1-0-0)",
+        "rank": "",
+        "conferences": [{
+          "conferenceName": "Big East",
+          "conferenceSeo": "big-east"
+        }]
+      },
+      "liveVideoEnabled": false,
+      "startTime": "TBA",
+      "startTimeEpoch": "1692936000",
+      "bracketId": "",
+      "gameState": "final",
+      "startDate": "08-25-2023",
+      "currentPeriod": "FINAL",
+      "videoState": "",
+      "bracketRegion": "",
+      "contestClock": "60:00"
+    }},
+    {"game": {
+      "gameID": "3482963",
+      "away": {
+        "score": "0",
+        "names": {
+          "char6": "STONEH",
+          "short": "Stonehill",
+          "seo": "stonehill",
+          "full": "Stonehill College"
+        },
+        "winner": false,
+        "seed": "",
+        "description": "(0-1-0)",
+        "rank": "",
+        "conferences": [{
+          "conferenceName": "NEC",
+          "conferenceSeo": "nec"
+        }]
+      },
+      "finalMessage": "FINAL/2OT",
+      "bracketRound": "",
+      "title": "Holy Cross Stonehill",
+      "contestName": "",
+      "url": "/game/6190454",
+      "network": "",
+      "home": {
+        "score": "1",
+        "names": {
+          "char6": "HOLYCR",
+          "short": "Holy Cross",
+          "seo": "holy-cross",
+          "full": "College of the Holy Cross"
+        },
+        "winner": true,
+        "seed": "",
+        "description": "(1-0-0)",
+        "rank": "",
+        "conferences": [{
+          "conferenceName": "Patriot",
+          "conferenceSeo": "patriot"
+        }]
+      },
+      "liveVideoEnabled": false,
+      "startTime": "TBA",
+      "startTimeEpoch": "1692936000",
+      "bracketId": "",
+      "gameState": "final",
+      "startDate": "08-25-2023",
+      "currentPeriod": "FINAL/2OT",
+      "videoState": "",
+      "bracketRegion": "",
+      "contestClock": "73:03"
+    }},
+    {"game": {
+      "gameID": "3482964",
+      "away": {
+        "score": "1",
+        "names": {
+          "char6": "OHIO",
+          "short": "Ohio",
+          "seo": "ohio",
+          "full": "Ohio University"
+        },
+        "winner": false,
+        "seed": "",
+        "description": "(0-1-0)",
+        "rank": "",
+        "conferences": [{
+          "conferenceName": "MAC",
+          "conferenceSeo": "mac"
+        }]
+      },
+      "finalMessage": "FINAL",
+      "bracketRound": "",
+      "title": "American Ohio",
+      "contestName": "",
+      "url": "/game/6190455",
+      "network": "",
+      "home": {
+        "score": "5",
+        "names": {
+          "char6": "AMER",
+          "short": "American",
+          "seo": "american",
+          "full": "American University"
+        },
+        "winner": true,
+        "seed": "",
+        "description": "(1-0-0)",
+        "rank": "",
+        "conferences": [{
+          "conferenceName": "Patriot",
+          "conferenceSeo": "patriot"
+        }]
+      },
+      "liveVideoEnabled": false,
+      "startTime": "TBA",
+      "startTimeEpoch": "1692936000",
+      "bracketId": "",
+      "gameState": "final",
+      "startDate": "08-25-2023",
+      "currentPeriod": "FINAL",
+      "videoState": "",
+      "bracketRegion": "",
+      "contestClock": "60:00"
+    }},
+    {"game": {
+      "gameID": "3482965",
+      "away": {
+        "score": "3",
+        "names": {
+          "char6": "APP ST",
+          "short": "App State",
+          "seo": "appalachian-st",
+          "full": "Appalachian State University"
+        },
+        "winner": true,
+        "seed": "",
+        "description": "(1-0-0)",
+        "rank": "",
+        "conferences": [{
+          "conferenceName": "MAC",
+          "conferenceSeo": "mac"
+        }]
+      },
+      "finalMessage": "FINAL",
+      "bracketRound": "",
+      "title": "Towson App State",
+      "contestName": "",
+      "url": "/game/6190456",
+      "network": "",
+      "home": {
+        "score": "1",
+        "names": {
+          "char6": "TOWSON",
+          "short": "Towson",
+          "seo": "towson",
+          "full": "Towson University"
+        },
+        "winner": false,
+        "seed": "",
+        "description": "(0-1-0)",
+        "rank": "",
+        "conferences": [{
+          "conferenceName": "CAA",
+          "conferenceSeo": "caa"
+        }]
+      },
+      "liveVideoEnabled": false,
+      "startTime": "TBA",
+      "startTimeEpoch": "1692936000",
+      "bracketId": "",
+      "gameState": "final",
+      "startDate": "08-25-2023",
+      "currentPeriod": "FINAL",
+      "videoState": "",
+      "bracketRegion": "",
+      "contestClock": "60:00"
+    }},
+    {"game": {
+      "gameID": "3482966",
+      "away": {
+        "score": "2",
+        "names": {
+          "char6": "LONGWD",
+          "short": "Longwood",
+          "seo": "longwood",
+          "full": "Longwood University"
+        },
+        "winner": true,
+        "seed": "",
+        "description": "(1-0-0)",
+        "rank": "",
+        "conferences": [{
+          "conferenceName": "MAC",
+          "conferenceSeo": "mac"
+        }]
+      },
+      "finalMessage": "FINAL/OT",
+      "bracketRound": "",
+      "title": "Richmond Longwood",
+      "contestName": "",
+      "url": "/game/6190457",
+      "network": "",
+      "home": {
+        "score": "1",
+        "names": {
+          "char6": "RICH",
+          "short": "Richmond",
+          "seo": "richmond",
+          "full": "University of Richmond"
+        },
+        "winner": false,
+        "seed": "",
+        "description": "(0-1-0)",
+        "rank": "",
+        "conferences": [{
+          "conferenceName": "Atlantic 10",
+          "conferenceSeo": "atlantic-10"
+        }]
+      },
+      "liveVideoEnabled": false,
+      "startTime": "TBA",
+      "startTimeEpoch": "1692936000",
+      "bracketId": "",
+      "gameState": "final",
+      "startDate": "08-25-2023",
+      "currentPeriod": "FINAL/OT",
+      "videoState": "",
+      "bracketRegion": "",
+      "contestClock": "70:00"
+    }},
+    {"game": {
+      "gameID": "3482967",
+      "away": {
+        "score": "4",
+        "names": {
+          "char6": "JMU",
+          "short": "James Madison",
+          "seo": "james-madison",
+          "full": "James Madison University"
+        },
+        "winner": true,
+        "seed": "",
+        "description": "(1-0-0)",
+        "rank": "",
+        "conferences": [{
+          "conferenceName": "DI Independent",
+          "conferenceSeo": "di-independent"
+        }]
+      },
+      "finalMessage": "FINAL",
+      "bracketRound": "",
+      "title": "William & Mary James Madison",
+      "contestName": "",
+      "url": "/game/6190458",
+      "network": "",
+      "home": {
+        "score": "2",
+        "names": {
+          "char6": "WM&MRY",
+          "short": "William & Mary",
+          "seo": "william-mary",
+          "full": "William & Mary"
+        },
+        "winner": false,
+        "seed": "",
+        "description": "(0-1-0)",
+        "rank": "",
+        "conferences": [{
+          "conferenceName": "CAA",
+          "conferenceSeo": "caa"
+        }]
+      },
+      "liveVideoEnabled": false,
+      "startTime": "TBA",
+      "startTimeEpoch": "1692936000",
+      "bracketId": "",
+      "gameState": "final",
+      "startDate": "08-25-2023",
+      "currentPeriod": "FINAL",
+      "videoState": "",
+      "bracketRegion": "",
+      "contestClock": "60:00"
+    }},
+    {"game": {
+      "gameID": "3482968",
+      "away": {
+        "score": "3",
+        "names": {
+          "char6": "UMASS",
+          "short": "Massachusetts",
+          "seo": "massachusetts",
+          "full": "University of Massachusetts, Amherst"
+        },
+        "winner": true,
+        "seed": "",
+        "description": "(1-0-0)",
+        "rank": "",
+        "conferences": [{
+          "conferenceName": "Atlantic 10",
+          "conferenceSeo": "atlantic-10"
+        }]
+      },
+      "finalMessage": "FINAL/2OT",
+      "bracketRound": "",
+      "title": "UAlbany Massachusetts",
+      "contestName": "",
+      "url": "/game/6190459",
+      "network": "",
+      "home": {
+        "score": "2",
+        "names": {
+          "char6": "ALBANY",
+          "short": "UAlbany",
+          "seo": "albany-ny",
+          "full": "University at Albany"
+        },
+        "winner": false,
+        "seed": "",
+        "description": "(0-1-0)",
+        "rank": "",
+        "conferences": [{
+          "conferenceName": "America East",
+          "conferenceSeo": "america-east"
+        }]
+      },
+      "liveVideoEnabled": false,
+      "startTime": "TBA",
+      "startTimeEpoch": "1692936000",
+      "bracketId": "",
+      "gameState": "final",
+      "startDate": "08-25-2023",
+      "currentPeriod": "FINAL/2OT",
+      "videoState": "",
+      "bracketRegion": "",
+      "contestClock": "71:47"
+    }},
+    {"game": {
+      "gameID": "3482969",
+      "away": {
+        "score": "1",
+        "names": {
+          "char6": "ST LOU",
+          "short": "Saint Louis",
+          "seo": "saint-louis",
+          "full": "Saint Louis University"
+        },
+        "winner": false,
+        "seed": "",
+        "description": "(0-1-0)",
+        "rank": "",
+        "conferences": [{
+          "conferenceName": "Atlantic 10",
+          "conferenceSeo": "atlantic-10"
+        }]
+      },
+      "finalMessage": "FINAL",
+      "bracketRound": "",
+      "title": "Bellarmine Saint Louis",
+      "contestName": "",
+      "url": "/game/6190460",
+      "network": "",
+      "home": {
+        "score": "3",
+        "names": {
+          "char6": "BELLAR",
+          "short": "Bellarmine",
+          "seo": "bellarmine",
+          "full": "Bellarmine University"
+        },
+        "winner": true,
+        "seed": "",
+        "description": "(1-0-0)",
+        "rank": "",
+        "conferences": [{
+          "conferenceName": "MAC",
+          "conferenceSeo": "mac"
+        }]
+      },
+      "liveVideoEnabled": false,
+      "startTime": "TBA",
+      "startTimeEpoch": "1692936000",
+      "bracketId": "",
+      "gameState": "final",
+      "startDate": "08-25-2023",
+      "currentPeriod": "FINAL",
+      "videoState": "",
+      "bracketRegion": "",
+      "contestClock": "60:00"
+    }},
+    {"game": {
+      "gameID": "3482970",
+      "away": {
+        "score": "3",
+        "names": {
+          "char6": "DEL",
+          "short": "Delaware",
+          "seo": "delaware",
+          "full": "University of Delaware"
+        },
+        "winner": false,
+        "seed": "",
+        "description": "(0-1-0)",
+        "rank": "",
+        "conferences": [{
+          "conferenceName": "CAA",
+          "conferenceSeo": "caa"
+        }]
+      },
+      "finalMessage": "FINAL",
+      "bracketRound": "",
+      "title": "VCU Delaware",
+      "contestName": "",
+      "url": "/game/6190461",
+      "network": "",
+      "home": {
+        "score": "4",
+        "names": {
+          "char6": "VCU",
+          "short": "VCU",
+          "seo": "vcu",
+          "full": "Virginia Commonwealth University"
+        },
+        "winner": true,
+        "seed": "",
+        "description": "(1-0-0)",
+        "rank": "",
+        "conferences": [{
+          "conferenceName": "Atlantic 10",
+          "conferenceSeo": "atlantic-10"
+        }]
+      },
+      "liveVideoEnabled": false,
+      "startTime": "TBA",
+      "startTimeEpoch": "1692936000",
+      "bracketId": "",
+      "gameState": "final",
+      "startDate": "08-25-2023",
+      "currentPeriod": "FINAL",
+      "videoState": "",
+      "bracketRegion": "",
+      "contestClock": "60:00"
+    }},
+    {"game": {
+      "gameID": "3482971",
+      "away": {
+        "score": "0",
+        "names": {
+          "char6": "UCONN",
+          "short": "UConn",
+          "seo": "uconn",
+          "full": "University of Connecticut"
+        },
+        "winner": false,
+        "seed": "",
+        "description": "(0-1-0)",
+        "rank": "",
+        "conferences": [{
+          "conferenceName": "Big East",
+          "conferenceSeo": "big-east"
+        }]
+      },
+      "finalMessage": "FINAL",
+      "bracketRound": "",
+      "title": "Saint Joseph's UConn",
+      "contestName": "",
+      "url": "/game/6190462",
+      "network": "",
+      "home": {
+        "score": "2",
+        "names": {
+          "char6": "STJOES",
+          "short": "Saint Joseph's",
+          "seo": "saint-josephs",
+          "full": "Saint Joseph's University"
+        },
+        "winner": true,
+        "seed": "",
+        "description": "(1-0-0)",
+        "rank": "",
+        "conferences": [{
+          "conferenceName": "Atlantic 10",
+          "conferenceSeo": "atlantic-10"
+        }]
+      },
+      "liveVideoEnabled": false,
+      "startTime": "TBA",
+      "startTimeEpoch": "1692936000",
+      "bracketId": "",
+      "gameState": "final",
+      "startDate": "08-25-2023",
+      "currentPeriod": "FINAL",
+      "videoState": "",
+      "bracketRegion": "",
+      "contestClock": "60:00"
+    }},
+    {"game": {
+      "gameID": "3482972",
+      "away": {
+        "score": "3",
+        "names": {
+          "char6": "DAVID",
+          "short": "Davidson",
+          "seo": "davidson",
+          "full": "Davidson College"
+        },
+        "winner": true,
+        "seed": "",
+        "description": "(1-0-0)",
+        "rank": "",
+        "conferences": [{
+          "conferenceName": "Atlantic 10",
+          "conferenceSeo": "atlantic-10"
+        }]
+      },
+      "finalMessage": "FINAL",
+      "bracketRound": "",
+      "title": "Georgetown Davidson",
+      "contestName": "",
+      "url": "/game/6190463",
+      "network": "",
+      "home": {
+        "score": "2",
+        "names": {
+          "char6": "GTOWN",
+          "short": "Georgetown",
+          "seo": "georgetown",
+          "full": "Georgetown University"
+        },
+        "winner": false,
+        "seed": "",
+        "description": "(0-1-0)",
+        "rank": "",
+        "conferences": [{
+          "conferenceName": "Big East",
+          "conferenceSeo": "big-east"
+        }]
+      },
+      "liveVideoEnabled": false,
+      "startTime": "TBA",
+      "startTimeEpoch": "1692936000",
+      "bracketId": "",
+      "gameState": "final",
+      "startDate": "08-25-2023",
+      "currentPeriod": "FINAL",
+      "videoState": "",
+      "bracketRegion": "",
+      "contestClock": "60:00"
+    }},
+    {"game": {
+      "gameID": "3727658",
+      "away": {
+        "score": "3",
+        "names": {
+          "char6": "BALLST",
+          "short": "Ball St.",
+          "seo": "ball-st",
+          "full": "Ball State University"
+        },
+        "winner": false,
+        "seed": "",
+        "description": "(0-1-0)",
+        "rank": "",
+        "conferences": [{
+          "conferenceName": "MAC",
+          "conferenceSeo": "mac"
+        }]
+      },
+      "finalMessage": "FINAL",
+      "bracketRound": "",
+      "title": "Villanova Ball St.",
+      "contestName": "",
+      "url": "/game/6191090",
+      "network": "",
+      "home": {
+        "score": "4",
+        "names": {
+          "char6": "NOVA",
+          "short": "Villanova",
+          "seo": "villanova",
+          "full": "Villanova University"
+        },
+        "winner": true,
+        "seed": "",
+        "description": "(1-0-0)",
+        "rank": "",
+        "conferences": [{
+          "conferenceName": "Big East",
+          "conferenceSeo": "big-east"
+        }]
+      },
+      "liveVideoEnabled": false,
+      "startTime": "TBA",
+      "startTimeEpoch": "1692936000",
+      "bracketId": "",
+      "gameState": "final",
+      "startDate": "08-25-2023",
+      "currentPeriod": "FINAL",
+      "videoState": "",
+      "bracketRegion": "",
+      "contestClock": "60:00"
+    }},
+    {"game": {
+      "gameID": "3727738",
+      "away": {
+        "score": "2",
+        "names": {
+          "char6": "RUTGER",
+          "short": "Rutgers",
+          "seo": "rutgers",
+          "full": "Rutgers, The State University of New Jersey, New Brunswick"
+        },
+        "winner": true,
+        "seed": "",
+        "description": "(1-0-0)",
+        "rank": "",
+        "conferences": [{
+          "conferenceName": "Big Ten",
+          "conferenceSeo": "big-ten"
+        }]
+      },
+      "finalMessage": "FINAL",
+      "bracketRound": "",
+      "title": "UC Davis Rutgers",
+      "contestName": "",
+      "url": "/game/6191114",
+      "network": "",
+      "home": {
+        "score": "0",
+        "names": {
+          "char6": "UC DAV",
+          "short": "UC Davis",
+          "seo": "uc-davis",
+          "full": "University of California, Davis"
+        },
+        "winner": false,
+        "seed": "",
+        "description": "(0-1-0)",
+        "rank": "",
+        "conferences": [{
+          "conferenceName": "America East",
+          "conferenceSeo": "america-east"
+        }]
+      },
+      "liveVideoEnabled": false,
+      "startTime": "TBA",
+      "startTimeEpoch": "1692946800",
+      "bracketId": "",
+      "gameState": "final",
+      "startDate": "08-25-2023",
+      "currentPeriod": "FINAL",
+      "videoState": "",
+      "bracketRegion": "",
+      "contestClock": "60:00"
+    }},
+    {"game": {
+      "gameID": "3727775",
+      "away": {
+        "score": "4",
+        "names": {
+          "char6": "MD",
+          "short": "Maryland",
+          "seo": "maryland",
+          "full": "University of Maryland, College Park"
+        },
+        "winner": true,
+        "seed": "",
+        "description": "(1-0-0)",
+        "rank": "",
+        "conferences": [{
+          "conferenceName": "Big Ten",
+          "conferenceSeo": "big-ten"
+        }]
+      },
+      "finalMessage": "FINAL",
+      "bracketRound": "",
+      "title": "Stanford Maryland",
+      "contestName": "",
+      "url": "/game/6191127",
+      "network": "",
+      "home": {
+        "score": "0",
+        "names": {
+          "char6": "STAN",
+          "short": "Stanford",
+          "seo": "stanford",
+          "full": "Stanford University"
+        },
+        "winner": false,
+        "seed": "",
+        "description": "(0-1-0)",
+        "rank": "",
+        "conferences": [{
+          "conferenceName": "America East",
+          "conferenceSeo": "america-east"
+        }]
+      },
+      "liveVideoEnabled": false,
+      "startTime": "TBA",
+      "startTimeEpoch": "1692946800",
+      "bracketId": "",
+      "gameState": "final",
+      "startDate": "08-25-2023",
+      "currentPeriod": "FINAL",
+      "videoState": "",
+      "bracketRegion": "",
+      "contestClock": "60:00"
+    }},
+    {"game": {
+      "gameID": "3482974",
+      "away": {
+        "score": "3",
+        "names": {
+          "char6": "QUINN",
+          "short": "Quinnipiac",
+          "seo": "quinnipiac",
+          "full": "Quinnipiac University"
+        },
+        "winner": false,
+        "seed": "",
+        "description": "(0-1-0)",
+        "rank": "",
+        "conferences": [{
+          "conferenceName": "Big East",
+          "conferenceSeo": "big-east"
+        }]
+      },
+      "finalMessage": "FINAL/OT",
+      "bracketRound": "",
+      "title": "New Hampshire Quinnipiac",
+      "contestName": "",
+      "url": "/game/6190465",
+      "network": "",
+      "home": {
+        "score": "4",
+        "names": {
+          "char6": "UNH",
+          "short": "New Hampshire",
+          "seo": "new-hampshire",
+          "full": "University of New Hampshire"
+        },
+        "winner": true,
+        "seed": "",
+        "description": "(1-0-0)",
+        "rank": "",
+        "conferences": [{
+          "conferenceName": "America East",
+          "conferenceSeo": "america-east"
+        }]
+      },
+      "liveVideoEnabled": false,
+      "startTime": "TBA",
+      "startTimeEpoch": "1692986400",
+      "bracketId": "",
+      "gameState": "final",
+      "startDate": "08-25-2023",
+      "currentPeriod": "FINAL/OT",
+      "videoState": "",
+      "bracketRegion": "",
+      "contestClock": "69:58"
+    }},
+    {"game": {
+      "gameID": "3482976",
+      "away": {
+        "score": "2",
+        "names": {
+          "char6": "SACHRT",
+          "short": "Sacred Heart",
+          "seo": "sacred-heart",
+          "full": "Sacred Heart University"
+        },
+        "winner": false,
+        "seed": "",
+        "description": "(0-1-0)",
+        "rank": "",
+        "conferences": [{
+          "conferenceName": "NEC",
+          "conferenceSeo": "nec"
+        }]
+      },
+      "finalMessage": "FINAL",
+      "bracketRound": "",
+      "title": "Vermont Sacred Heart",
+      "contestName": "",
+      "url": "/game/6190467",
+      "network": "",
+      "home": {
+        "score": "6",
+        "names": {
+          "char6": "VERMNT",
+          "short": "Vermont",
+          "seo": "vermont",
+          "full": "University of Vermont"
+        },
+        "winner": true,
+        "seed": "",
+        "description": "(1-0-0)",
+        "rank": "",
+        "conferences": [{
+          "conferenceName": "America East",
+          "conferenceSeo": "america-east"
+        }]
+      },
+      "liveVideoEnabled": false,
+      "startTime": "TBA",
+      "startTimeEpoch": "1692990000",
+      "bracketId": "",
+      "gameState": "final",
+      "startDate": "08-25-2023",
+      "currentPeriod": "FINAL",
+      "videoState": "",
+      "bracketRegion": "",
+      "contestClock": "60:00"
+    }},
+    {"game": {
+      "gameID": "3482977",
+      "away": {
+        "score": "0",
+        "names": {
+          "char6": "QUENNC",
+          "short": "Queens (NC)",
+          "seo": "queens-nc",
+          "full": "Queens University of Charlotte"
+        },
+        "winner": false,
+        "seed": "",
+        "description": "(0-1-0)",
+        "rank": "",
+        "conferences": [{
+          "conferenceName": "DI Independent",
+          "conferenceSeo": "di-independent"
+        }]
+      },
+      "finalMessage": "FINAL",
+      "bracketRound": "",
+      "title": "Saint Francis (PA) Queens (NC)",
+      "contestName": "",
+      "url": "/game/6190468",
+      "network": "",
+      "home": {
+        "score": "6",
+        "names": {
+          "char6": "STFRPA",
+          "short": "Saint Francis (PA)",
+          "seo": "st-francis-pa",
+          "full": "Saint Francis University (Pennsylvania)"
+        },
+        "winner": true,
+        "seed": "",
+        "description": "(1-0-0)",
+        "rank": "",
+        "conferences": [{
+          "conferenceName": "NEC",
+          "conferenceSeo": "nec"
+        }]
+      },
+      "liveVideoEnabled": false,
+      "startTime": "TBA",
+      "startTimeEpoch": "1692995400",
+      "bracketId": "",
+      "gameState": "final",
+      "startDate": "08-25-2023",
+      "currentPeriod": "FINAL",
+      "videoState": "",
+      "bracketRegion": "",
+      "contestClock": "60:00"
+    }},
+    {"game": {
+      "gameID": "3482975",
+      "away": {
+        "score": "2",
+        "names": {
+          "char6": "MIA OH",
+          "short": "Miami (OH)",
+          "seo": "miami-oh",
+          "full": "Miami University (Ohio)"
+        },
+        "winner": true,
+        "seed": "",
+        "description": "(1-0-0)",
+        "rank": "",
+        "conferences": [{
+          "conferenceName": "MAC",
+          "conferenceSeo": "mac"
+        }]
+      },
+      "finalMessage": "FINAL",
+      "bracketRound": "",
+      "title": "California Miami (OH)",
+      "contestName": "",
+      "url": "/game/6190466",
+      "network": "",
+      "home": {
+        "score": "0",
+        "names": {
+          "char6": "CAL",
+          "short": "California",
+          "seo": "california",
+          "full": "University of California, Berkeley"
+        },
+        "winner": false,
+        "seed": "",
+        "description": "(0-1-0)",
+        "rank": "",
+        "conferences": [{
+          "conferenceName": "America East",
+          "conferenceSeo": "america-east"
+        }]
+      },
+      "liveVideoEnabled": false,
+      "startTime": "TBA",
+      "startTimeEpoch": "1692997200",
+      "bracketId": "",
+      "gameState": "final",
+      "startDate": "08-25-2023",
+      "currentPeriod": "FINAL",
+      "videoState": "",
+      "bracketRegion": "",
+      "contestClock": "60:00"
+    }},
+    {"game": {
+      "gameID": "3482979",
+      "away": {
+        "score": "0",
+        "names": {
+          "char6": "WAGNER",
+          "short": "Wagner",
+          "seo": "wagner",
+          "full": "Wagner College"
+        },
+        "winner": false,
+        "seed": "",
+        "description": "(0-1-0)",
+        "rank": "",
+        "conferences": [{
+          "conferenceName": "NEC",
+          "conferenceSeo": "nec"
+        }]
+      },
+      "finalMessage": "FINAL",
+      "bracketRound": "",
+      "title": "Lafayette Wagner",
+      "contestName": "",
+      "url": "/game/6190470",
+      "network": "",
+      "home": {
+        "score": "5",
+        "names": {
+          "char6": "LAFAYE",
+          "short": "Lafayette",
+          "seo": "lafayette",
+          "full": "Lafayette College"
+        },
+        "winner": true,
+        "seed": "",
+        "description": "(1-0-0)",
+        "rank": "",
+        "conferences": [{
+          "conferenceName": "Patriot",
+          "conferenceSeo": "patriot"
+        }]
+      },
+      "liveVideoEnabled": false,
+      "startTime": "TBA",
+      "startTimeEpoch": "1693004400",
+      "bracketId": "",
+      "gameState": "final",
+      "startDate": "08-25-2023",
+      "currentPeriod": "FINAL",
+      "videoState": "",
+      "bracketRegion": "",
+      "contestClock": "60:00"
+    }}
+  ]
+}
